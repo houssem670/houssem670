@@ -11,9 +11,6 @@ I'm Houssem from Tunisia 🇹🇳
 
 ☁️ Passionate about Cloud Computing, DevSecOps, Cybersecurity, and Infrastructure as Code.<br><br>
 
-🚀 I enjoy designing secure cloud architectures, automating infrastructure, and building hands-on projects with AWS and Azure.<br><br>
-
-📚 Currently expanding my expertise in AWS, Microsoft Azure, Terraform, Kubernetes, and Cloud Security while developing practical portfolio projects.
 </p>
 
 <h2 align="left">I code with</h2>
