@@ -59,6 +59,9 @@ I'm Houssem from Tunisia 🇹🇳
   <img src="https://n8n.io/favicon.ico" height="40" alt="n8n"/>
   <img width="12"/>
 
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions"/>
+  <img width="12"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img width="12"/>
 
@@ -80,15 +83,3 @@ I'm Houssem from Tunisia 🇹🇳
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 
 </div>
-## 🏆 Certifications
-
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🚀 **KodeKloud Engineer – 100 Days of DevOps**
-- 🔄 **GitLab CI/CD: Architecting, Deploying & Optimizing Pipelines**
-- 🌍 **Terraform Basics**
-- 🐳 **Docker Training Course for the Absolute Beginner**
-- ☁️ **Oracle Cloud Infrastructure 2025 Foundations Associate**
-- 🤖 **AWS AI Practitioner Challenge**
-- 🧠 **The Machine Learning Process A-Z**
-- 🔐 **Introduction to Cybersecurity**
-- 🌐 **Cisco Certified Network Associate (CCNA)**
